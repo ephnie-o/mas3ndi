@@ -43,7 +43,7 @@ const Header = () => {
                 </DropdownMenuTrigger>
                 <DropdownMenuContent
                   align="end"
-                  className="w-44 mt-2 py-2 border-gray-200 bg-white rounded-md shadow-lg"
+                  className="w-56 mt-2 py-2 border-gray-200 bg-white rounded-md shadow-lg"
                 >
                   <DropdownMenuItem className="cursor-pointer my-2 mx-2 rounded-sm focus:outline-none">
                     <Link href="#features" className="w-full px-2 py-2 text-gray-600 text-sm font-medium hover:text-green-800">

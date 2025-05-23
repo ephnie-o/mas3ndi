@@ -1,8 +1,6 @@
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import Image from "next/image";
-import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
-import { ShieldCheck, MessageSquare, BarChart2, UserPlus, Zap, Shield } from "lucide-react";
+import { ShieldCheck, MessageSquare, BarChart2, UserPlus } from "lucide-react";
 
 export default function Home() {
   return (
